@@ -9,10 +9,10 @@ int main()
     int idade;
     float peso, altura;
 
-    printf("Digite o seu sexo, idade, peso e altura: \n");
-    scanf("%c %d %f %f", &sexo, &idade, &peso, &altura);
+    printf("Digite a sua idade, peso, altura e sexo: \n");
+    scanf("%d %f %f %c", &idade, &peso, &altura, &sexo);
 
-    printf("Sexo: %c\nIdade: %d\nPeso: %.1f\nAltura: %.2f\n", sexo, idade, peso, altura);
+    printf("Idade: %d\nPeso: %.1f\nAltura: %.2f\nSexo: %c\n", idade, peso, altura, sexo);
 
     return 0;
 }
