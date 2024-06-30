@@ -1,3 +1,5 @@
+// Aula 009 - Lendo caractera com a função 'fgetc()'
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -6,7 +8,7 @@ int main()
     char letra;
 
     printf("Digite uma letra: ");
-    letra = getc(stdin); // stdin = entrada padrão do teclado
+    letra = fgetc(stdin); // fgetc = file (arquivos)
 
     printf("Caracter lido: %c", letra);
 

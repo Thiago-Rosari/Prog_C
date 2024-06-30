@@ -1,3 +1,5 @@
+// Aula 010 - Lendo vários valores
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,5 @@
+// Aula 006 - Lendo caracteres
+
 #include <stdio.h>
 #include <stdlib.h>
 

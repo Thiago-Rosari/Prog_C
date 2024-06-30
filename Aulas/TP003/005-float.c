@@ -1,3 +1,5 @@
+// Aula 005 - Lendo números reais
+
 #include <stdio.h>
 #include <stdlib.h>
 
