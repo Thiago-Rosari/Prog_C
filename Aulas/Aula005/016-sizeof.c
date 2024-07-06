@@ -1,3 +1,6 @@
+// Aula 16 - Operador sizeof
+// sizeof X sizeof(int)
+
 #include <stdio.h>
 #include <stdlib.h>
 
