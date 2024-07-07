@@ -1,11 +1,12 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 /*
+            Aula 17
     operador short para o tipo int
     intervalo: -32.768 até 32.767
     %hi ou %d
 */
+
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {

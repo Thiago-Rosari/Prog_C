@@ -1,11 +1,12 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 /*
+            Aula 18
     Tamanho de um int na memória
     intervalo: -2.147.483.648 e 2.147.483.647
     %hi ou %d
 */
+
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
