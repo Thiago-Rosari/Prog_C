@@ -1,12 +1,11 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 /*
-    Tamanho de um float na memória
-    %f
-    Tipo double
+        Aula 21
+    Tamanho de um double na memória
     %lf
 */
+
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {

@@ -1,10 +1,13 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 /*
+            Aula 19
     Operador long para o tipo int
     %li ou %ld
+    Operador long long para o tipo int
+    %lld ou %lli
 */
+
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
