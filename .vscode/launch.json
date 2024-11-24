@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/th_ma/Documentos/ESTUDOS/UFERSA/Prog_C/Exercícios/Ex001",
-      "program": "c:/Users/th_ma/Documentos/ESTUDOS/UFERSA/Prog_C/Exercícios/Ex001/build/Debug/outDebug",
+      "cwd": "c:/Users/th_ma/Documentos/ESTUDOS/ESTÁCIO/Prog_C/Aulas_C/Cap_1",
+      "program": "c:/Users/th_ma/Documentos/ESTUDOS/ESTÁCIO/Prog_C/Aulas_C/Cap_1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
