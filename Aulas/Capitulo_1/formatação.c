@@ -29,8 +29,8 @@ int main (void)
     float circuferencia = 2 * pi * raio;
     float area = pi * raio * raio;
 
-    printf("Ocirculo de reio %f tem: \n", raio);
-    printf("\tCircuferencio = %.2f\n", circuferencia);
+    printf("O circulo de raio %f tem: \n", raio);
+    printf("\tCircuferencia = %.2f\n", circuferencia);
     printf("\tArea = %.2f\n", area);
 
     return 0;
